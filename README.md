@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <div align='center'>
 
 # KittyShop_15 🐱
@@ -23,8 +23,6 @@ Here the story telling :
 [Features](#features)
 
 [Authors Details](#authors-details)
-
-[Show your support](#show-your-support)
 
 </div>
 
@@ -73,7 +71,14 @@ Here the story telling :
 ## Show your support
 
 Give us a ⭐ Star on GitHub — it helps!
-=======
-# README
-https://kitty-shop-team.herokuapp.com/
->>>>>>> development
+
+## Some Previews:
+
+### homepage
+<img src="public/homepage.png"></img>
+
+### loginpage
+<img src="public/login.png"></img>
+
+### cart
+<img src="public/cart.png"></img>
